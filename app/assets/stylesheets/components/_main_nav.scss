@@ -1,0 +1,59 @@
+.left-nav {
+	display: inline-block;
+	display: flex;
+	flex-direction: row;
+	justify-content: space-between;
+}
+
+.right-nav {
+	display: flex;
+	flex-direction: row;
+	// padding: 10px;
+}
+
+.right-nav > li {
+	margin: 4px;
+	// border-radius: 20px;
+}
+
+.section-search {
+	display: flex;
+	flex-direction: row;
+	align-items: center;
+	font-weight: 900;
+}
+
+.section-search > li {
+	text-transform: uppercase;
+	margin: 10px;
+}
+
+.main-nav {
+
+}
+
+.left-nav > ul,
+.right-nav > ul {
+
+}
+
+.left-nav > ul > li {
+
+}
+
+.right-nav > ul > li {
+
+}
+
+.right-nav > ul > li:last-of-type {
+
+}
+
+.left-nav > ul > li:hover,
+.right-nav > ul > li:last-of-type:hover {
+
+}
+
+.left-nav span {
+
+}
